@@ -8,8 +8,8 @@ import (
 	"os/signal"
 	"runtime/pprof"
 
-	"github.com/samuel/go-dsp/dsp"
-	"github.com/samuel/go-rtlsdr/rtl"
+	"github.com/timmattison/go-dsp/dsp"
+	"github.com/timmattison/go-rtlsdr/rtl"
 )
 
 const (
